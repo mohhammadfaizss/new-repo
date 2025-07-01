@@ -1,1 +1,5 @@
-This is the first file that I have created in this repository
+<<<<<<< HEAD
+This is the first file that I have created in this repos
+=======
+This is the first file that I have created in this repos
+>>>>>>> 0369501f6c4e86ec98df6c113befff6d434bcb3e
