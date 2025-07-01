@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 This is the first file that I have create in this repos
-=======
-This is the first file that I have create in this repos
->>>>>>> 0369501f6c4e86ec98df6c113befff6d434bcb3e
-=======
-This is the first file that I have create in this repos
->>>>>>> 066e0180217f03b97adeb45495ca38649c6c6247
